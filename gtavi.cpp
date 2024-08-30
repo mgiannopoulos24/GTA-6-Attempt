@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-// Synexiste to, theloume na kanei synexeia evolve.
+// Old file. Left here for reference.
 
 class Weapon {
 	enum Type{ Gun, Melee, Misc };
